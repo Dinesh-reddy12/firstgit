@@ -1,0 +1,2 @@
+# firstgit
+basic learn
